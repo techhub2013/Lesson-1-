@@ -1,0 +1,12 @@
+print("09:30 AM", "Wake up and stretch"),
+print("9:45 AM", "Brush teeth and wash face"),
+print("10:00 AM", "Eat a nutritious breakfast"),
+print("10:30 AM", "Review to-do list for the day"),
+print("11:00 AM", "Start work / study session 1"),
+print("1:30 PM", "Eat lunch and take a short walk"),
+print("02:30 PM", "Start work / study session 2"),
+print("05:00 PM", "Exercise or do outdoor activities"),
+print("06:30 PM", "Shower and relax"),
+print("08:30 PM", "Read a book, work on personal projects, or watch TV"),
+print("10:00 PM", "Unwind and prepare for bed"),
+print("10:30 PM", "Lights out and sleep")
